@@ -1,11 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
 
-import Button from './components/Button';
+
 function App() {
     return (
         <div className="App">
-            <Button />
+            <h1>React js</h1>
         </div>
     );
 }
